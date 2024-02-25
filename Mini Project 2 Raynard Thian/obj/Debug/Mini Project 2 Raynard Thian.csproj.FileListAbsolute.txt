@@ -1,0 +1,14 @@
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\bin\Debug\Mini Project 2 Raynard Thian.exe.config
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\bin\Debug\Mini Project 2 Raynard Thian.exe
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\bin\Debug\Mini Project 2 Raynard Thian.pdb
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini_Project_2_Raynard_Thian.ResistorCode.resources
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini_Project_2_Raynard_Thian.Properties.Resources.resources
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.csproj.GenerateResource.cache
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.csproj.CoreCompileInputs.cache
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.exe
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.pdb
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini_Project_2_Raynard_Thian.History.resources
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini_Project_2_Raynard_Thian.Form1.resources
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini_Project_2_Raynard_Thian.Form2.resources
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.csproj.AssemblyReference.cache
+D:\APPG\Lab\Mini Project 2 Question 6\Mini Project 2 Raynard Thian\Mini Project 2 Raynard Thian\obj\Debug\Mini Project 2 Raynard Thian.csproj.SuggestedBindingRedirects.cache
